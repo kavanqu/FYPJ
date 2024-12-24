@@ -23,7 +23,7 @@ The Project Objective are:
   - Develop a decision recommendation system leveraging past cases and regulations (*).
   - Provide intuitive results visualization on a Singapore-based map interface (*).
 
-#Project Timeline
+# Project Timeline
 25 Nov 2024 to 14 Feb 2025 (3 months)
 
 # Kavan Tasks
@@ -42,4 +42,4 @@ The Project Objective are:
 - Re-design UI *
 - Integration, archive the source code & write documentation in Azure DevOps *
 
-* = Not Completed Yet
+Not completed yet = *
