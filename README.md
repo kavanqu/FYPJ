@@ -41,5 +41,3 @@ The Project Objective are:
 - Explore LTA GIS BASEMAPS/Singapore map *
 - Re-design UI *
 - Integration, archive the source code & write documentation in Azure DevOps *
-
-Not completed yet = *
